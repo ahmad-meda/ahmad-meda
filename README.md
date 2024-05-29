@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm a Final Year BSc Computer Science student at Heriot-Watt and Fresh out of the oven ML Engineer!
 
 

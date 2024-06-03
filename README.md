@@ -5,7 +5,7 @@ I'm a Final Year BSc Computer Science student at Heriot-Watt University and Fres
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-meda/) 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-meda/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-meda/) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle)](https://www.kaggle.com/ahmadmeda) 
 
 
 # Tech Stack:

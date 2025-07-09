@@ -1,5 +1,5 @@
 # Ahmad Meda
-I'm a Final Year BSc Computer Science student at Heriot-Watt University and Fresh out of the oven ML & DL Engineer!
+I'm a First Class Honors BSc Computer Science Graduate and Fresh out of the oven AI Engineer!
 
 
 ## Socials:
